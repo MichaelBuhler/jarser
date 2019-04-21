@@ -1,0 +1,29 @@
+{
+  "name": "jarser",
+  "version": "0.0.1",
+  "description": "a parser in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelBuhler/jarser.git"
+  },
+  "keywords": [
+    "yacc",
+    "bison",
+    "parse",
+    "parser",
+    "parsing",
+    "syntax",
+    "syntax analysis",
+    "syntatic analysis"
+  ],
+  "author": "Michael Buhler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelBuhler/jarser/issues"
+  },
+  "homepage": "https://github.com/MichaelBuhler/jarser#readme"
+}
