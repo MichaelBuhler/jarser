@@ -17,11 +17,14 @@
     "parser",
     "parsing",
     "syntax",
+    "syntax analyzer",
     "syntax analysis",
-    "syntatic analysis"
+    "syntatic analysis",
+    "syntatic analyzer",
+    "syntatic grammar"
   ],
-  "author": "Michael Buhler",
-  "license": "ISC",
+  "author": "Michael Buhler <michael@michaelbuhler.com> (http://michaelbuhler.com/)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MichaelBuhler/jarser/issues"
   },
